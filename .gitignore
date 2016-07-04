@@ -1,6 +1,6 @@
 *.class
 *.cmd
-*.txt
+mvnw.txt
 /target/
 /.idea/
 /.mvn/
