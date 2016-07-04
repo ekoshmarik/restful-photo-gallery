@@ -1,11 +1,2 @@
-*.class
-*.cmd
-mvnw.txt
 /target/
 /.idea/
-/.mvn/
-
-# Package Files #
-*.jar
-*.war
-*.ear
