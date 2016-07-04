@@ -25,7 +25,7 @@ public class DirectoryScanner {
    * The getFiles() method searches for specified image file format in the specified directory
    * and all of its subdirectories.
    * @param directory is a full path to directory to scan.
-   * @return a list to full paths to the files matching the input criteria.
+   * @return a list to full paths to files matching the input criteria.
    */
   public static List<Path> getFiles(String directory) {
     LOGGER.info("Searching for .png files in '{}'", directory);
